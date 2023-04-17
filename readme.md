@@ -1,0 +1,3 @@
+# Futaba
+
+Discord Bot
